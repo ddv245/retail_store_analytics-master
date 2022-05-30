@@ -1,0 +1,11 @@
+filterpy==1.4.5
+imgaug==0.4.0
+lap==0.4.0
+matplotlib==3.5.2
+mysql_connector_repackaged==0.3.1
+numpy==1.22.3
+opencv_python==4.5.5.64
+scipy==1.8.0
+torch==1.10.0+cu113
+torchvision==0.11.1+cu113
+tqdm==4.64.0
